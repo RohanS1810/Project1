@@ -22,7 +22,10 @@ Queens
 Staten island 
 
 #4 Calculate which Building Class category was sold the most for all the 5 neighborhood and build a bar plot to see it for the building classes.
-#5 Bar chart – for all 5 cities and each bar sliced by each neighborhood
-#6 Bar chart - for all 5 cities and each bar sliced by each Building Class category
+
+#5 Bar chart - for all 5 cities and each bar sliced by each Building Class category
+
+#6 Bar chart – for all 5 cities and each bar sliced by each neighborhood
+
 #7 API – With Zillow Zillow Neighborhood Information
 Real estate site Zillow offers APIs that give access to neighborhood information that can be integrated into other applications. (They also offer a number of other APIs, including postings, property details, home valuations, and more.)
