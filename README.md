@@ -1,5 +1,7 @@
 # Project1
 
+[New York Real Estate Fintech Presentation](https://tome.app/seemaa/new-york-real-estate-fintech-cleex07bi00d86o40rb0v1b39)
+
 #1 Calculate the highest sales price in each of the 5 city in a year Manhattan
 Manhattan
 Bronx
